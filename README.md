@@ -1,5 +1,6 @@
 # Axelrod-Model
-Implementation of the Axelrod Model
-Axelrod Model.pdf contains explanion of how the code works in polish
-Heatmap .mp4 files contain the visualizationa
-.ipynb file contain all the code and comments in polish
+# Model Axelroda - Symulacja Dziedziczenia Cech w Społeczności
+
+Repozytorium zawiera implementację modelu agentów zaproponowanego przez Roberta Axelroda, który bada proces dziedziczenia cech w społeczności. Każdy agent reprezentowany jest jako punkt w przestrzeni 2D z przypisanym trójwymiarowym wektorem cech. Proces interakcji pomiędzy agentami oparty jest na losowych wyborach sąsiadów i prawdopodobieństwie dziedziczenia cech.
+
+W epozytorium znajdują się kod, sprawoazdanie i gotowe pliki z wizualizacją działania kodu
